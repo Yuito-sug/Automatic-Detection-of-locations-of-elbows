@@ -5,6 +5,7 @@ File Name: test_model.py
 """
 import keras
 from keras.preprocessing import image
+import numpy as np
 
 # Load the trained model
 model = keras.models.load_model('detect_elbow.h5', compile=True)
