@@ -5,7 +5,9 @@
 
 
 2. Architecture
-  Basic structure: AutoEncoder
+  - Basic structure: AutoEncoder\
       Input: (512,512,3)
      Output: (512,512,3)
+  - Model Summary: https://github.com/Yuito-sug/Automatic-Detection-of-locations-of-elbows/blob/main/code/model/model_structure.pdf
+
    
