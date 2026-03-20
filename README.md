@@ -11,8 +11,12 @@
   - Model Summary: https://github.com/Yuito-sug/Automatic-Detection-of-locations-of-elbows/blob/main/code/model/model_structure.pdf
 
   - Details
-  - 
+    1. Input
+       RGB images whose shape is (512,512).
+    2. Output
+       RGB images that the predicted locations of elbows are marked as white and other places are black.
 
 
-3. Usage
+### 3. Usage
+
    
