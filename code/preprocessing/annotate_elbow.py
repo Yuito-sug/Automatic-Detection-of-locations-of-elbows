@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load a image
-img = image.load_img("/images/train/pk32.jpg",target_size=(512,512))
+img = image.load_img("/images/train/ximages/pk32.jpg",target_size=(512,512))
 
 # The coordinate of the estimated location of the elbow.
 x=65
