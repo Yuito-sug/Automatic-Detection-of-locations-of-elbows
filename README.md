@@ -19,7 +19,7 @@
 
 ### 3. Usage
 You want to look at the code?\
--> `code` folder\\
+-> `code` folder\
 You want to look at the images?\
 -> `images` folder
    
